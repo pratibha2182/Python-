@@ -1,3 +1,4 @@
+
 # A variable is like a labelled box where we store data.
 name = "pratibha"  #string
 age = 22  #integer
