@@ -21,8 +21,8 @@ print(sqrt(16))
 # as keyword
 import math as m 
 print(m.sqrt(16))
-'''
 
 # dir keyword
 import math
 print(dir(math))
+'''
